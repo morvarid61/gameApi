@@ -1,6 +1,5 @@
-{
-    "recommend": [
-    {
+[
+    {    
     "id": "1",
     "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8251b00af5c9b40a/66bfcb5b7e3fe282ad56f73c/WOW_11.0_TWW_LaunchBanners-Destruction_Launcher_FranchisePhoenix_1920x1080_JL01b.png?imwidth=332&imdensity=1.25",
     "gameName": " World of Warcraft ",
@@ -89,9 +88,7 @@
     "desc": "Now live! Get a Level 70 Boost included in all editions and get back in the fight.",
     "price": "59.99",
     "icon": "https://eu.shop.battle.net/en-us/product/world-of-warcraft-the-war-within  "
-    }
-    ],
-    "Featured": [
+    },
     {
     "id": "11",
     "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt0fbcd361d23ca879/67c25cce5f3ea1e1c417c14e/shop_family_browsing_card_premium_edition.webp?imwidth=332&imdensity=1.25",
@@ -181,9 +178,7 @@
     "desc": "Now live! Get a Level 70 Boost included in all editions and get back in the fight.",
     "price": "59.99",
     "icon": "https://eu.shop.battle.net/en-us/product/world-of-warcraft-the-war-within  "
-    }
-    ],
-    "Trending Now": [
+    },
     {
     "id": "21",
     "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt8251b00af5c9b40a/66bfcb5b7e3fe282ad56f73c/WOW_11.0_TWW_LaunchBanners-Destruction_Launcher_FranchisePhoenix_1920x1080_JL01b.png?imwidth=332&imdensity=1.25",
@@ -263,9 +258,7 @@
     "gameTitle": "World of Warcraft : The War Within",
     "desc": "Now live! Get a Level 70 Boost included in all editions and get back in the fight.",
     "price": "59.99"
-    }
-    ],
-    "Most Gifted": [
+    },
     {
     "id": "31",
     "image": "https://blz-contentstack-images.akamaized.net/v3/assets/bltf408a0557f4e4998/blt22309e58a5b36a2c/67ca46cc2255dd4622829126/shop_product_feature_card_aries_premium.webp?imwidth=332&imdensity=1.25",
@@ -356,5 +349,5 @@
     "price": "59.99",
     "icon": "https://eu.shop.battle.net/en-us/product/world-of-warcraft-the-war-within  "
     }
-    ]
-    }
+    
+]
